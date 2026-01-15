@@ -1,78 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Anish&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20Student%20%7C%20AI%20Researcher%20%7C%20IoT%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Anish%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
 <p align="left">
- <img align="right" src="https://media.giphy.com/media/26tn33ai009QWJWbm/giphy.gif" width="280" alt="Coding Gif" />
-
- 👋 **I am a 3rd Year B.Tech Student** (Electrical Engineering & IoT) at **Institute of Engineering and Management, Kolkata** (2023-2027).  
+ <img align="right" src="https://media.giphy.com/media/dummy/giphy.gif" width="0" /> I am a **Machine Learning Researcher & Engineer** with a strong foundation in Electrical Engineering. My focus is on **Deep Learning Architectures (Transformers, CNNs)**, **Model Optimization**, and **Scalable AI Deployment**.
  
- 🚀 **Current Status:** "Grinding" Data Structures (LeetCode 1600+) & researching Edge AI.  
- 🧠 **Focus:** I bridge the gap between **Hardware (IoT)** and **Software (Deep Learning)**.  
- 🏆 **Key Achievement:** Finalist at **Smart India Hackathon 2025** (Project: Jal-Sense Grid).  
- ⚡ **Fun Fact:** I have a patent pending for Deepfake Detection on Raspberry Pi!  
+ 🔭 **Current Focus:** Fine-tuning Large Language Models (LLMs) & Audio Transformers for production environments.  
+ 🚀 **Goal:** Building high-efficiency ML pipelines that solve complex, real-world data problems.  
+ 🧠 **Problem Solving:** Active LeetCode Solver (Max Rating: 1600+).  
  📫 **Contact:** ghoshanish.848@gmail.com
 </p>
 
-<br/>
+---
 
-### 🛠️ Tech Stack & Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,docker,kubernetes,git,linux,raspberrypi,fastapi,sklearn,aws" />
-</div>
+### 🛠️ Technical Arsenal
+
+| Domain | Technology Stack |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **MLOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 
 ---
 
-### 🚀 Top Projects (Currently Building)
+### 🧬 Featured Machine Learning Projects
 
-| Project | Description & Impact | Tech Stack |
+| Project | Problem Solved & Impact | Stack |
 | :--- | :--- | :--- |
-| **🎙️ Audio Deepfake Detection**<br>*(Patent Pending)* | • **Goal:** Detect fake audio on low-power devices.<br>• **Impact:** Achieved sub-100ms inference on **Raspberry Pi 4**.<br>• **Status:** Active Research. | `TensorFlow Lite` `Docker` `Raspberry Pi` |
-| **🗣️ Live Language Detection**<br>*(Research)* | • **Goal:** Identify languages in real-time audio streams.<br>• **Impact:** Reduced latency by **40%** via Int8 Quantization.<br>• **Model:** Fine-tuned **Wave2Vec 2.0**. | `Hugging Face` `PyTorch` `Quantization` |
-| **🏦 Churn Prediction API**<br>*(Full Stack ML)* | • **Goal:** Predict bank customer churn instantly.<br>• **Impact:** Handles **100+ RPM** with <50ms latency.<br>• **Accuracy:** 92% Precision. | `FastAPI` `Scikit-learn` `XGBoost` |
+| **Audio Deepfake Detection**<br>*(Patent Pending)* | **Model Optimization.** Developed a lightweight forensic model achieving sub-100ms inference speeds. Solved latency issues in real-time fraud detection. | `TensorFlow Lite` `Quantization` `Librosa` |
+| **Live Language Identification**<br>*(NLP)* | **Transformer Fine-Tuning.** Fine-tuned **Wave2Vec 2.0** for audio streams. Implemented Int8 quantization to reduce model size by 40% without losing accuracy. | `Hugging Face` `Wav2Vec 2.0` `PyTorch` |
+| **Customer Churn Predictor**<br>*(End-to-End DS)* | **Predictive Analytics.** Built a full-stack ML pipeline with **92% accuracy**. Handled class imbalance using SMOTE and deployed via FastAPI (100+ RPM). | `XGBoost` `FastAPI` `Docker` |
 
 ---
 
-### 💼 Internships & Experience
+### 💼 Professional Experience
 
-**🤖 AI Tech Intern @ Emvo AI** *(Sep 2025 - Present)*
-- Currently building **AI Agents** to automate business workflows.
-- Fine-tuning **WavLM** models and containerizing them for production.
-- **Impact:** Reduced system latency by **25%** and manual work by **40%**.
+**🚀 Tech Intern (Machine Learning) @ Emvo AI** *(Sep 2025 - Present)*
+- **Optimization:** Fine-tuned Transformer-based models (WavLM) for proprietary datasets.
+- **MLOps:** Containerized inference engines using Docker, reducing deployment conflicts.
+- **Impact:** Reduced system latency by **25%** and improved classification accuracy by **35%**.
 
 **🔬 AI Research Intern @ IIEST Shibpur** *(May 2025 - July 2025)*
-- Developed **Audio Forensic Models** for Raspberry Pi 3B+.
-- **Impact:** Achieved **95% accuracy** and cut false positives by **40%**.
-
-**📰 ML Intern @ Brainware Matrix Solutions** *(Aug 2025 - Sep 2025)*
-- Built a **Fake News Detection System** with 92% precision using NLP.
-- Worked with **Generative AI** for text-to-image prompts.
+- **Research:** Conducted deep learning research on audio forensics.
+- **Performance:** Achieved **95% accuracy** on validation sets while reducing inference time by **60%** through architectural pruning.
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+### 📊 Engineering Metrics
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanishghosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lanishghosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanishghosh&layout=compact&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanishghosh&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanishghosh&theme=tokyonight" alt="Streak" />
+  <a href="https://leetcode.com/u/AnG_20/">
+    <img src="https://leetcard.jacoblin.cool/AnG_20?theme=tokyonight&font=Inter" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
 
-### 🤝 Connect with Me
 <div align="center">
-<a href="https://linkedin.com/in/anish-ghosh-284892282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-ghosh" height="30" width="40" /></a>
-<a href="mailto:ghoshanish.848@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ghoshanish.848@gmail.com" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AnG_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anish-ghosh-284892282"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ghoshanish.848@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
 </div>
